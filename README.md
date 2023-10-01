@@ -6,6 +6,7 @@ This project is a YouTube clone built using React.js, Redux for state management
 
 
 [![Demo](https://github.com/hagerElroby/Youtube_Clone/assets/87615921/279b9ab1-7dcf-4718-af94-5d095055c4cf)](https://clone-yout.web.app/)
+[![OpenAI Logo](https://avatars.githubusercontent.com/u/54205434?s=200&v=4)](https://openai.com)
 
 ## Getting Started
 

@@ -15,15 +15,20 @@ This project is a YouTube clone built using React.js, Redux for state management
 2.Navigate to the project directory.
   cd Youtube_Clone
 3.Install dependencies.
-   npm install
-  # or
-  yarn install
+  ```  npm install ```
+  ### or
+  ``` yarn install ```
+  
 4.Create a Firebase project and set up authentication. Replace the Firebase configuration in src/firebase.js with your own.
+
 5.Obtain a YouTube API Key and replace  with your actual API Key.
+
 6.Start the development server.
-   npm start
-  # or
-  yarn start
+
+   ``` npm start ```
+   
+  ### or
+  ``` yarn start ```
 
   
 Replace the placeholders with your actual project details and make sure to include any specific instructions or steps that are relevant to your project.

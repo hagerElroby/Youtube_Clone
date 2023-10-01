@@ -42,11 +42,11 @@ const App = () => {
    // const history = useNavigate()
    const navigate = useNavigate();
 
-   useEffect(() => {
-      if (!loading && !accessToken) {
-         navigate('/auth');
-      }
-   }, [accessToken, loading, navigate])
+   // useEffect(() => {
+   //    if (!loading && !accessToken) {
+   //       navigate('/auth');
+   //    }
+   // }, [accessToken, loading, navigate])
 
    return (
       <Routes>

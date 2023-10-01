@@ -5,7 +5,7 @@ This project is a YouTube clone built using React.js, Redux for state management
 ### [click here to visit website](https://clone-yout.web.app/)
 
 
-[![Demo](https://avatars.githubusercontent.com/u/54205434?s=200&v=4)](https://clone-yout.web.app/)
+[![Demo](https://github.com/hagerElroby/hagerElroby-portfolio/blob/main/src/img/1.jpg?raw=true)](https://clone-yout.web.app/)
 
 ## Getting Started
 

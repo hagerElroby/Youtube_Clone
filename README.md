@@ -1,6 +1,9 @@
 # YouTube Clone Project
 
 This project is a YouTube clone built using React.js, Redux for state management, Sass for styling, and Firebase for authentication. It utilizes the YouTube API to fetch and display videos.
+[click here to visit website](https://clone-yout.web.app/)
+
+[![Demo](https://github.com/hagerElroby/Youtube_Clone/assets/87615921/279b9ab1-7dcf-4718-af94-5d095055c4cf)](https://clone-yout.web.app/)
 
 ## Getting Started
 
@@ -15,9 +18,16 @@ This project is a YouTube clone built using React.js, Redux for state management
 2.Navigate to the project directory.
   cd Youtube_Clone
 3.Install dependencies.
-  ```  npm install ```
+
+  ```  
+  npm install
+ ```
+
   ### or
-  ``` yarn install ```
+  
+  ```
+  yarn install
+```
   
 4.Create a Firebase project and set up authentication. Replace the Firebase configuration in src/firebase.js with your own.
 
@@ -25,15 +35,20 @@ This project is a YouTube clone built using React.js, Redux for state management
 
 6.Start the development server.
 
-   ``` npm start ```
+   ``` 
+   npm start
+ ```
    
   ### or
-  ``` yarn start ```
+  
+  ``` 
+  yarn start
+ ```
 
   
 Replace the placeholders with your actual project details and make sure to include any specific instructions or steps that are relevant to your project.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -1,6 +1,6 @@
 # YouTube Clone Project
 
-This project is a YouTube clone built using React.js, Redux for state management, Sass and react-bootstrap for styling, and Firebase for authentication.
+This project is a YouTube clone built using React.js, Redux for state management, Sass and react-bootstrap for styling, and Firebase for authentication.<br>
 It utilizes the YouTube API to fetch and display videos.
 
 ### [click here to visit website](https://clone-yout.web.app/)
